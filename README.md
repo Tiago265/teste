@@ -2,8 +2,3 @@
 ![download](https://github.com/user-attachments/assets/3b0d7910-88fd-4e79-a29a-663fb2af473a)
 <strong><h1> Olá mundo </h1></strong>
 
-<style>
-h1{
-    color: pink;
-}
-</style>
